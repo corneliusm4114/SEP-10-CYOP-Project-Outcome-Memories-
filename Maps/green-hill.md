@@ -1,20 +1,17 @@
 # For Survivors:
 
- ### If you choose Sonic, click here
+### If you choose Sonic or Knuckles, click here
+---
+## [Sonic's Story](defense-start.md)
+---
+### If you choose Amy or Eggman click here
+## [Amy's Story](offense-start.md)
 
-## [Sonic's Story]()
----
-### If you choose Amy, click here
-## [Amy's Story]()
----
-### If you choose Eggman, click below
-
-## [Eggman's Story]()
----
-### If you choose Knuckles, click below
-## [Knuckles' Story]()
 ---
 # For Executioners:
+---
+
+
 
 
 
